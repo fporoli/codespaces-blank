@@ -1,0 +1,7 @@
+logs
+*.log
+*-debug.log*
+node_modules
+dest
+*.local
+.vscode/*
